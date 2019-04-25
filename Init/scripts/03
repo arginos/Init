@@ -1,0 +1,3 @@
+#!/bin/bash
+diskutil info disk0 | grep -i smart
+system_profiler SPHardwareDataType | grep -i Identifier

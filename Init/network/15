@@ -1,0 +1,4 @@
+I need to add 46.19.122.85 to the host file.
+so:
+vim /etc/hosts
+add this line: "46.19.122.85 intra.42.fr"
